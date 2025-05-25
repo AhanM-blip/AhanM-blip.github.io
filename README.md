@@ -11,5 +11,5 @@ This repository will hold assignments.
 ## My Interests
         I enjoy running track and field on my schools team. I have fun connecting with my teammates and training. I also enjoy playing some videogames in my freetime.
 ## Websites I Recomend
- - [YouTube](https://www.youtube.com) – I recommend YouTube because it never ceases to interest you. You can find basically whatever video you are looking for on here.  
-- [Netflix](https://www.netflix.com) – I recommend Netflix because there are hundreds of movies and shows available to watch whenever you want.
+ - [YouTube](https://www.youtube.com) - I recommend YouTube because it never ceases to interest you. You can find basically whatever video you are looking for on here.  
+- [Netflix](https://www.netflix.com) - I recommend Netflix because there are hundreds of movies and shows available to watch whenever you want.
